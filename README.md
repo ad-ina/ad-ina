@@ -11,7 +11,7 @@
   <a href="https://twitter.com/adina_zuhal?t=UV5Fz5BN3nK89GMnal97oA&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-Instagram-URL">
+  <a href="https://www.instagram.com/zuhal.adina/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
